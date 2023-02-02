@@ -1,3 +1,5 @@
 Welcome to our Git lesson, I hope it will be useful for everyone.
 
 In this lesson , we will learn "gitignore".
+
+We finished the course.
